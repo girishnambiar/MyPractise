@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/girishnambiar/MyPractise"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Girish &lt;Girish@192.168.0.4&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Girish &lt;Girish@192.168.0.4&gt;"/>
+	</list>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
 		<item value="666" key="DIALOG_WIDTH"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
@@ -11,13 +25,16 @@
 			<item value="400"/>
 		</list>
 	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.CheckoutDialog.dialogBounds">
+		<item value="538" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="484" key="DIALOG_HEIGHT"/>
+		<item value="699" key="DIALOG_X_ORIGIN"/>
+		<item value="206" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\Girish\git\MyPractise\.git">
-			<item value="false"/>
-			<item value="Girish &lt;Girish@192.168.0.4&gt;"/>
-			<item value="First push - girish"/>
-			<item value="Girish &lt;Girish@192.168.0.4&gt;"/>
-			<item value="280b2c32229f4f91ac1a34a02e851110884790ec"/>
+			<item value="empty"/>
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
