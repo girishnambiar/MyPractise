@@ -1,0 +1,13 @@
+package MyPractiseJune17.MyPractiseJune17;
+
+public abstract class Basic {
+
+	public void state()
+	{
+		
+	};
+	public void state1(){
+		
+	};
+
+}

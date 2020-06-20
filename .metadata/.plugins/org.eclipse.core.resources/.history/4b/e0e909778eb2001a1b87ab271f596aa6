@@ -1,0 +1,15 @@
+package MyPractiseJune17.MyPractiseJune17;
+
+public class SumOfPairOfNumbers {
+	
+	int getSum(int[] inputNumbers, int expectedPairOfNumbers)
+	{
+		int intActualOutput = 0;
+		
+		
+		
+		
+		return intActualOutput;
+	}
+
+}

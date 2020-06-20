@@ -1,0 +1,10 @@
+package MyPractiseJune17.MyPractiseJune17;
+
+public class InterfaceTest implements Basic {
+	
+	public void state()
+	{
+		System.out.println("inside implemented class");
+	}
+
+}

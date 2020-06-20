@@ -1,0 +1,7 @@
+package MyPractiseJune17.MyPractiseJune17;
+
+public interface Basic {
+
+	public void state();
+	public void state1();
+}
