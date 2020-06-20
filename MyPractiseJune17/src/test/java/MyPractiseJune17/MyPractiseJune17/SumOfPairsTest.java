@@ -5,7 +5,11 @@ import junit.framework.TestCase;
 public class SumOfPairsTest extends TestCase {
 
 	public void testGetSum() {
-		fail("Not yet implemented");
+		SumOfPairOfNumbers objSPON = new SumOfPairOfNumbers();
+		if(!objSPON.getSum(new int[]{2,3,4,5},9))
+		{
+			fail();
+		}
 	}
 
 }
