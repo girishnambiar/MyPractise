@@ -16,7 +16,7 @@
 	</list>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
 		<item value="666" key="DIALOG_WIDTH"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 		<item value="458" key="DIALOG_HEIGHT"/>
 		<item value="555" key="DIALOG_X_ORIGIN"/>
 		<item value="157" key="DIALOG_Y_ORIGIN"/>
@@ -34,7 +34,11 @@
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="C:\Users\Girish\git\MyPractise\.git">
-			<item value="empty"/>
+			<item value="false"/>
+			<item value="Girish &lt;Girish@192.168.0.4&gt;"/>
+			<item value="pom.xml"/>
+			<item value="Girish &lt;Girish@192.168.0.4&gt;"/>
+			<item value="3c4353e2dfea17bdcfe6c5a4953e942853e05b38"/>
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
