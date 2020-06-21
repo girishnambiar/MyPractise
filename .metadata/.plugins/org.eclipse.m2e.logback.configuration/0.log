@@ -636,3 +636,20 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-06-20 19:35:03,138 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\main\resources
 2020-06-20 19:35:03,140 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-20 19:35:03,141 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\test\resources
+2020-06-20 20:02:58,122 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 20:02:58,128 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\main\resources
+2020-06-20 20:02:58,133 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 20:02:58,133 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\test\resources
+2020-06-20 20:03:08,128 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 20:03:08,129 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\main\resources
+2020-06-20 20:03:08,133 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 20:03:08,133 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\test\resources
+2020-06-20 21:32:05,616 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MyPractiseJune17:SampleMavenTest:0.0.1-SNAPSHOT @ C:\Users\Girish\git\MyPractise\MyPractiseJune17\pom.xml.
+2020-06-20 21:32:06,722 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 21:32:06,723 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\main\resources
+2020-06-20 21:32:06,727 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 21:32:06,727 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\test\resources
+2020-06-20 21:32:14,328 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 21:32:14,329 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\main\resources
+2020-06-20 21:32:14,331 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-20 21:32:14,332 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Girish\git\MyPractise\MyPractiseJune17\src\test\resources
